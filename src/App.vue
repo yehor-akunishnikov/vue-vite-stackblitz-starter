@@ -1,7 +1,10 @@
 <template>
   <h1>Hi</h1>
   <p>I'm <strong>your</strong> playground</p>
-  <p>Here you can write both <strong>HTML</strong> and <span class="css">CSS</span> in one file</p>
+  <p>
+    Here you can write both <strong>HTML</strong> 
+    and <span class="css">CSS</span> in one file
+  </p>
 </template>
 
 <style scoped>
